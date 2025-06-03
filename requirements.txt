@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+psycopg2-binary
+python-dotenv
+sqlparse
+requests  # Add this line for making HTTP requests to Ollama
